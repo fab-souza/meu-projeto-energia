@@ -1,5 +1,5 @@
 # meu-projeto-energia
-Repositório de projeto particular sobre o setor energético nacional
+Repositório de um projeto particular sobre o setor energético nacional.
 
 Inicialmente, retirei os dados da Empresa de Pesquisa Energética (EPE) no link: 
 
