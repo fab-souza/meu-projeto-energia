@@ -13,7 +13,7 @@ E os dados do SIGA (Sistema de Informações de Geração da ANEEL), no link:
 https://dados.gov.br/dataset/siga-sistema-de-informacoes-de-geracao-da-aneel
 
 
-O Ministério de Minas e Energia disponibilizou um relatório com alguns dados referente à geração registrada em 2021, pelo link:
+O Ministério de Minas e Energia disponibilizou o Balanço Energético Nacional (BEN) com dados referente à geração registrada em 2021, pelo link:
 
 https://www.gov.br/mme/pt-br/assuntos/secretarias/spe/publicacoes/balanco-energetico-nacional/ben-2022/ben_sintese_2022_pt.pdf/view
 
