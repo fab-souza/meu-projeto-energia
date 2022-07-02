@@ -1,10 +1,12 @@
 # meu-projeto-energia
 Repositório de um projeto particular sobre o setor energético nacional.
 
-Inicialmente, retirei os dados da Empresa de Pesquisa Energética (EPE) no link: 
+Inicialmente, retirei os dados da Empresa de Pesquisa Energética (EPE) através do link: 
 
 https://www.epe.gov.br/pt/publicacoes-dados-abertos/publicacoes/balanco-energetico-nacional-2022
-![image](https://user-images.githubusercontent.com/67301805/177008606-e81aeadc-5c78-4b31-b731-ed78bcedb092.png)
+![matriz2021](https://user-images.githubusercontent.com/67301805/177010609-6a010d57-4a55-479f-ae53-e9e59e438117.jpg)
+![m-unidades](https://user-images.githubusercontent.com/67301805/177010616-e2020aa2-6e0f-4f48-a3ea-4e94fcf8251b.jpg)
+![m-con](https://user-images.githubusercontent.com/67301805/177010623-54ae6d91-bc0c-4aa4-8d04-3adec9fdb341.jpg)
 
 E os dados do SIGA (Sistema de Informações de Geração da ANEEL), no link:
 
