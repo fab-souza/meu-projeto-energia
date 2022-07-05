@@ -2,6 +2,7 @@
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 ![Badge de Atualização](https://img.shields.io/aur/last-modified/google-chrome?color=blue&style=for-the-badge)
+![Release](https://img.shields.io/github/release-date/fab-souza/meu-projeto-energia)
 
 Repositório de um projeto particular sobre o setor energético nacional.
 
