@@ -1,6 +1,7 @@
 # meu-projeto-energia
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
 ![Badge de Atualização](https://img.shields.io/github/last-commit/fab-souza/meu-projeto-energia)
 ![Release](https://img.shields.io/github/release-date/fab-souza/meu-projeto-energia)
 
