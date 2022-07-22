@@ -15,7 +15,15 @@ https://www.epe.gov.br/pt/publicacoes-dados-abertos/publicacoes/balanco-energeti
 ![m-unidades](https://user-images.githubusercontent.com/67301805/177010616-e2020aa2-6e0f-4f48-a3ea-4e94fcf8251b.jpg)
 ![m-con](https://user-images.githubusercontent.com/67301805/177010623-54ae6d91-bc0c-4aa4-8d04-3adec9fdb341.jpg)
 
-Dentre estas três planilhas, escolhi trabalhar com a primeira, pois ela engloba todas as fontes de energia, ao contrário das outras duas, em que uma não havia registros de biogás e a outra não mencionava energia solar.
+Dentre estas três planilhas, escolhi trabalhar com a primeira, pois ela engloba todas as fontes de energia, ao contrário das outras duas, em que uma não havia registros de biogás e a outra não mencionava energia solar. Achei melhor editar a planilha antes de iniciar a análise de dados, pois dentro dela havia duas planilhas, a primeira em diversas unidades de medida (mil m³, GWh, tep, mil tep), enquanto a segunda estava padronizada em mil tep. A planilha editada ficou da seguinte forma:
+
+![mil tep](https://user-images.githubusercontent.com/67301805/180580388-64554c7e-d80b-4946-b8c2-53209e917482.jpg)
+
+
+
+
+
+
 
 E os dados do SIGA (Sistema de Informações de Geração da ANEEL), no link:
 
