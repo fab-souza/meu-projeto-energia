@@ -19,9 +19,9 @@ Dentre estas três planilhas, escolhi trabalhar com a primeira, pois ela engloba
 
 ![mil tep](https://user-images.githubusercontent.com/67301805/180580388-64554c7e-d80b-4946-b8c2-53209e917482.jpg)
 
-Os dados analisados estão no arquivo BLÁ.jp em que foi feita uma limpeza da tabela, eliminando dados relacionados a energias não renováveis.
+Os dados analisados estão no arquivo BLÁ.jp em que foi feita uma limpeza da tabela, eliminando dados relacionados a energias não renováveis. Considerando que a maioria das linhas do dataframe refere-se a diferentes fontes, preferi abordar somente o quanto foi produzido, ou seja, selecionando apenas a linha 'PRODUÇÃO' que resultou na seguinte tabela:
 
-
+TABELA
 
 
 
