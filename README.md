@@ -23,12 +23,15 @@ Os dados analisados estão no arquivo BLÁ.jp em que foi feita uma limpeza da ta
 
 ![epe](https://user-images.githubusercontent.com/67301805/180874294-e777a861-df7e-4fd5-9a3d-08733847812b.jpg)
 
+<br>
+***********************************************************************************************************
+<br><br>
+
+Passando para a base de dados da ANEEL (fonte: https://dados.gov.br/dataset/siga-sistema-de-informacoes-de-geracao-da-aneel), o resultado foi uma surpresa. Pois os dados estavam espalhados em algumas colunas de forma disforme, ou seja, algumas colunas tinham informações e outras, não.
+
+![aneel](https://user-images.githubusercontent.com/67301805/181395110-593085b7-1e33-452a-8579-f61a3835ef8d.jpg)
 
 
-
-E os dados do SIGA (Sistema de Informações de Geração da ANEEL), no link:
-
-https://dados.gov.br/dataset/siga-sistema-de-informacoes-de-geracao-da-aneel
 
 
 O Ministério de Minas e Energia disponibilizou o Balanço Energético Nacional (BEN) com dados referente à geração registrada em 2021, pelo link:
