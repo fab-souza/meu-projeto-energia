@@ -35,7 +35,7 @@ Efetuei a edição da base de dados até ser possível abrir o arquivo sem erros
 
 A base de dados possui 23 variáveis, que dividem as usinas por UF, tipo de geração ('PCH', 'UHE', 'CGH', 'UTE', 'UTN', 'EOL', 'UFV' e 'CGU'), origem de combustível ('Hídrica', 'Fóssil', 'Biomassa', 'Nuclear', 'Eólica', 'Solar' e 'Undi-Elétrica'), suas fontes ('Potencial hidráulico', 'Carvão mineral', 'Petróleo',  'Agroindustriais', 'Gás natural', 'Urânio', 'Floresta', 'Resíduos sólidos urbanos', 'Cinética do vento', 'Radiação solar', 'Outros Fósseis', 'Cinética da água', 'Resíduos animais' e 'Biocombustíveis líquidos') e até uma divisão mais específica por combustível ('Potencial hidráulico', 'Bagaço de Cana de Açúcar', 'Licor Negro', 'Resíduos Florestais', 'Biogás - RU', 'Cinética do vento', 'Lenha', 'Casca de Arroz', 'Radiação solar', 'Carvão Vegetal', 'Gás de Alto Forno - Biomassa', 'Cinética da água', 'Biogás - RA', 'Capim Elefante', 'Óleos vegetais', 'Biogás-AGR', 'Resíduos Sólidos Urbanos - RU', 'Biogás - Floresta', 'Etanol' e 'Carvão - RU').
 
-
+Ao retirar as usinas do tipo 'Fóssil' e 'Nuclear', a base de dados ficou com quase 12,9 mil registros e ao filtrar por usinas que estão ativas, os dados foram reduzidos a um pouco mais de 11 mil registros.
 
 
 
