@@ -37,7 +37,15 @@ A base de dados possui 23 variáveis, entre elas um divisão das usinas por UF, 
 
 Ao retirar as usinas do tipo 'Fóssil' e 'Nuclear', a base de dados ficou com quase 12,9 mil registros e ao filtrar por usinas que estão ativas, os dados foram reduzidos a um pouco mais de 11 mil registros.
 
-Foram plotados gráficos dividindo as usinas por tipo de fonte e por tipo de combustível.
+Foram plotados gráficos dividindo as usinas por tipo de fonte 
+
+![agro](https://user-images.githubusercontent.com/67301805/182253420-0a44deb7-95ee-4d5e-8ac7-edfced1963d4.jpg)
+![vento](https://user-images.githubusercontent.com/67301805/182253439-3dd24199-4cde-41f7-816f-b2da8655bb8d.jpg)
+
+
+
+
+e por combustível.
 
 
 
