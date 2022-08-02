@@ -49,7 +49,13 @@ e por combustível.
 
 
 
+<br>
+***********************************************************************************************************
+<br><br>
 
+Para fazer uma análise de dados internacionais, utilizei a base de dados disponível no Kaggle:
+
+https://www.kaggle.com/datasets/programmerrdai/renewable-energy
 
 
 O Ministério de Minas e Energia disponibilizou o Balanço Energético Nacional (BEN) com dados referente à geração registrada em 2021, pelo link:
