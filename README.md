@@ -6,11 +6,18 @@
 ![Badge de Atualização](https://img.shields.io/github/last-commit/fab-souza/meu-projeto-energia)
 ![Release](https://img.shields.io/github/release-date/fab-souza/meu-projeto-energia)
 
-Repositório de um projeto particular sobre o setor energético nacional.
+Este é um repositório de um projeto particular sobre o setor energético nacional.
 
-Inicialmente, retirei os dados da Empresa de Pesquisa Energética (EPE) através do link: 
+A EPE (Empresa de Pesquisa Energética) é uma empresa pública, instituída nos termos da Lei n° 10.847, de 15 de março de 2004, e do Decreto n° 5.184, de 16 de agosto de 2004. Sua finalidade é prestar serviços na área de estudos e pesquisas destinados a subsidiar o planejamento do setor energético, tais como energia elétrica, petróleo e seus derivados, carvão mineral e fontes energéticas renováveis. A Lei n° 10.847, em seu Art. 4º, inciso II, estabelece entre as competências da EPE a de elaborar e publicar o Balanço Energético Nacional – BEN.
+
+O relatório consolidado BEN documenta e divulga, anualmente, extensa pesquisa e a contabilidade relativas à oferta e consumo de energia no Brasil, contemplando as atividades de extração de recursos energéticos primários, sua conversão em formas secundárias, a importação e exportação, a distribuição e o uso final da energia.
+
+Em adição a EPE publica o Relatório Síntese no primeiro semestre posterior ao ano base, que apresenta um resumo dos dados a cerca da contabilização da oferta, transformação e consumo final de produtos energéticos no Brasil.
+
+Inicialmente, retirei os dados da EPE através do link: 
 
 https://www.epe.gov.br/pt/publicacoes-dados-abertos/publicacoes/balanco-energetico-nacional-2022
+
 ![matriz2021](https://user-images.githubusercontent.com/67301805/177010609-6a010d57-4a55-479f-ae53-e9e59e438117.jpg)
 ![m-unidades](https://user-images.githubusercontent.com/67301805/177010616-e2020aa2-6e0f-4f48-a3ea-4e94fcf8251b.jpg)
 ![m-con](https://user-images.githubusercontent.com/67301805/177010623-54ae6d91-bc0c-4aa4-8d04-3adec9fdb341.jpg)
@@ -52,7 +59,7 @@ e por combustível.
 ***********************************************************************************************************
 <br><br>
 
-Para fazer uma análise de dados internacionais, utilizei a base de dados disponível no Kaggle, o Renewable Energy, e meu notebook:
+Para fazer uma análise de dados internacionais, utilizei a base de dados disponível no Kaggle, o Renewable Energy, no meu notebook:
 
 https://www.kaggle.com/code/fabianadesouza/meu-projeto-energia/edit
 
