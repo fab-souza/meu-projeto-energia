@@ -42,11 +42,10 @@ Foram plotados gráficos dividindo as usinas por tipo de fonte
 ![agro](https://user-images.githubusercontent.com/67301805/182253420-0a44deb7-95ee-4d5e-8ac7-edfced1963d4.jpg)
 ![vento](https://user-images.githubusercontent.com/67301805/182253439-3dd24199-4cde-41f7-816f-b2da8655bb8d.jpg)
 
-
-
-
 e por combustível.
 
+![solar](https://user-images.githubusercontent.com/67301805/182839401-91b52b7b-c63e-455d-b4bc-b596360be484.jpg)
+![vento](https://user-images.githubusercontent.com/67301805/182839427-1971c466-e469-4d26-9057-896bb9584f88.jpg)
 
 
 <br>
