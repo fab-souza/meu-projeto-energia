@@ -14,6 +14,19 @@ O relatório consolidado BEN documenta e divulga, anualmente, extensa pesquisa e
 
 Em adição a EPE publica o Relatório Síntese no primeiro semestre posterior ao ano base, que apresenta um resumo dos dados a cerca da contabilização da oferta, transformação e consumo final de produtos energéticos no Brasil.
 
+
+<!---
+
+O Ministério de Minas e Energia disponibilizou o Balanço Energético Nacional (BEN) com dados referente à geração registrada em 2021, pelo link:
+
+>https://www.gov.br/mme/pt-br/assuntos/secretarias/spe/publicacoes/balanco-energetico-nacional/ben-2022/ben_sintese_2022_pt.pdf/view
+
+>Usarei estes dados como uma forma de conferir o que for calculado neste projeto.
+
+-->
+
+
+
 Inicialmente, retirei os dados da EPE através do link: 
 
 https://www.epe.gov.br/pt/publicacoes-dados-abertos/publicacoes/balanco-energetico-nacional-2022
@@ -65,8 +78,3 @@ https://www.kaggle.com/code/fabianadesouza/meu-projeto-energia/edit
 
 
 
-O Ministério de Minas e Energia disponibilizou o Balanço Energético Nacional (BEN) com dados referente à geração registrada em 2021, pelo link:
-
-https://www.gov.br/mme/pt-br/assuntos/secretarias/spe/publicacoes/balanco-energetico-nacional/ben-2022/ben_sintese_2022_pt.pdf/view
-
-Usarei estes dados como uma forma de conferir o que for calculado neste projeto.
