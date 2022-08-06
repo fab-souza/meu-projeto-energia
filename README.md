@@ -57,6 +57,10 @@ A base de dados possui 23 variáveis, entre elas um divisão das usinas por UF, 
 
 Ao retirar as usinas do tipo 'Fóssil' e 'Nuclear', a base de dados ficou com quase 12,9 mil registros e ao filtrar por usinas que estão ativas, os dados foram reduzidos a um pouco mais de 11 mil registros.
 
+Para mostrar a diferença de potência gerada entre as usinas hídricas e as demais, plotei o seguinte gráfico:
+
+![pot](https://user-images.githubusercontent.com/67301805/183267782-91ff5b38-de5f-4c54-a94a-6627b031de6d.jpg)
+
 Foram plotados gráficos dividindo as usinas por tipo de fonte 
 
 ![agro](https://user-images.githubusercontent.com/67301805/182253420-0a44deb7-95ee-4d5e-8ac7-edfced1963d4.jpg)
