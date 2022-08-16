@@ -80,5 +80,17 @@ Para fazer uma análise de dados internacionais, utilizei a base de dados dispon
 
 https://www.kaggle.com/code/fabianadesouza/meu-projeto-energia/edit
 
+Os registros vão até 2020, mas deu para ter uma ideia de como está o setor energético dos países. Decidi trabalhar somente com os dados do BRICS, porque estes países, na época da formação do grupo, em 2009, foram considerados países emergentes, com características econômicas semelhantes. Fonte: https://www.todamateria.com.br/brics/
+
+Plotei os gráficos de consumo:
+![consumo_brasil](https://user-images.githubusercontent.com/67301805/184909775-41d164ff-e6b2-4f2e-9335-12d785d98fdf.png)
+![consumo_russia](https://user-images.githubusercontent.com/67301805/184909804-c65c2744-b1bd-44d0-ac6e-16fa5405a420.png)
+![consumo_india](https://user-images.githubusercontent.com/67301805/184909834-550d968d-eade-41e9-9f68-70ad382b31e2.png)
+![consumo_china](https://user-images.githubusercontent.com/67301805/184909876-442fe62a-256f-404f-8525-c51ce511acc7.png)
+![consumo_africa_sul](https://user-images.githubusercontent.com/67301805/184909896-2dc58f45-a951-497b-8ff0-8f8ae465e794.png)
+
+
+
+
 
 
