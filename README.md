@@ -71,6 +71,16 @@ e por combustível.
 ![solar](https://user-images.githubusercontent.com/67301805/182839401-91b52b7b-c63e-455d-b4bc-b596360be484.jpg)
 ![vento](https://user-images.githubusercontent.com/67301805/182839427-1971c466-e469-4d26-9057-896bb9584f88.jpg)
 
+Ainda sobre o Brasil, criei um notebook no Kaggle para plotar mapas com a geolocalização das usinas, divididas por fontes:
+
+- Usinas eólicas
+![usinas-eolica](https://user-images.githubusercontent.com/67301805/185011863-2b8569fe-592c-42e0-b843-9e8bfb4cc7a7.jpg)
+
+- Usinas hidrelétricas
+![usinas-hidro](https://user-images.githubusercontent.com/67301805/185011881-84ab876c-f209-4778-aa5d-f19b712c8238.jpg)
+
+
+
 
 <br>
 ***********************************************************************************************************
