@@ -78,6 +78,8 @@ Ainda sobre o Brasil, criei um notebook no Kaggle (link: https://www.kaggle.com/
 - Usinas hidrelétricas
 ![usinas-hidro](https://user-images.githubusercontent.com/67301805/185011881-84ab876c-f209-4778-aa5d-f19b712c8238.jpg)
 
+- Usinas solar
+![usinas_solar](https://user-images.githubusercontent.com/67301805/185685169-8562c799-c78c-4885-9637-8ec40c2c1b89.jpg)
 
 
 
