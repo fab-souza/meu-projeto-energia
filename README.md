@@ -4,7 +4,6 @@
 
 ![Badge code size](https://img.shields.io/github/languages/code-size/fab-souza/meu-projeto-energia)
 ![Badge de Atualização](https://img.shields.io/github/last-commit/fab-souza/meu-projeto-energia)
-![Release](https://img.shields.io/github/release-date/fab-souza/meu-projeto-energia)
 
 Este é um repositório de um projeto particular sobre o setor energético nacional.
 
