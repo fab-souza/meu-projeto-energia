@@ -89,7 +89,7 @@ Ainda sobre o Brasil, criei um notebook no Kaggle (link: https://www.kaggle.com/
 
 Para fazer uma análise de dados internacionais, utilizei a base de dados disponível no Kaggle, o Renewable Energy, no meu notebook:
 
-https://www.kaggle.com/code/fabianadesouza/meu-projeto-energia/edit
+https://www.kaggle.com/code/fabianadesouza/meu-projeto-energia-internacional
 
 Os registros vão até 2020, mas deu para ter uma ideia de como está o setor energético dos países. Decidi trabalhar somente com os dados do BRICS, porque estes países, na época da formação do grupo, em 2009, foram considerados países emergentes, com características econômicas semelhantes. Fonte: https://www.todamateria.com.br/brics/
 
