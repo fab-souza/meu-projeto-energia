@@ -42,6 +42,9 @@ Os dados analisados estão no arquivo projeto_energia_EPE.ipynb em que foi feita
 
 ![epe](https://user-images.githubusercontent.com/67301805/180874294-e777a861-df7e-4fd5-9a3d-08733847812b.jpg)
 
+O notebook projeto_energia_EPE.ipynb contém a análise completa.
+
+
 <br>
 ***********************************************************************************************************
 <br><br>
