@@ -84,7 +84,7 @@ Ainda sobre o Brasil, criei um notebook no Kaggle (link: https://www.kaggle.com/
 - Usinas solar
 ![usinas_solar](https://user-images.githubusercontent.com/67301805/185685169-8562c799-c78c-4885-9637-8ec40c2c1b89.jpg)
 
-
+O notebook com a análise completa: meu-projeto-energia-nacional.ipynb
 
 <br>
 ***********************************************************************************************************
