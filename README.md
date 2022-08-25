@@ -5,7 +5,7 @@
 ![Badge code size](https://img.shields.io/github/languages/code-size/fab-souza/meu-projeto-energia)
 ![Badge de Atualização](https://img.shields.io/github/last-commit/fab-souza/meu-projeto-energia)
 
-Este é um repositório de um projeto particular sobre o setor energético nacional.
+Este é o repositório de um projeto particular sobre o setor energético nacional.
 
 A EPE (Empresa de Pesquisa Energética) é uma empresa pública, instituída nos termos da Lei n° 10.847, de 15 de março de 2004, e do Decreto n° 5.184, de 16 de agosto de 2004. Sua finalidade é prestar serviços na área de estudos e pesquisas destinados a subsidiar o planejamento do setor energético, tais como energia elétrica, petróleo e seus derivados, carvão mineral e fontes energéticas renováveis. A Lei n° 10.847, em seu Art. 4º, inciso II, estabelece entre as competências da EPE a de elaborar e publicar o Balanço Energético Nacional – BEN.
 
