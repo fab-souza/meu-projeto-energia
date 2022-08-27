@@ -107,7 +107,9 @@ Os registros vão até 2020, mas deu para ter uma ideia de como está o setor en
 Plotei os gráficos de consumo:
 ![consumo_brasil](https://user-images.githubusercontent.com/67301805/184909775-41d164ff-e6b2-4f2e-9335-12d785d98fdf.png)
 
+E ao final na análise, plotei um gráfico apresentando a porcentagem de produção de energia por fonte:
 
+![producao_brasil](https://user-images.githubusercontent.com/67301805/187009164-eca3a658-797d-43f9-b463-ff1c87984619.png)
 
 
 
