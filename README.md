@@ -95,6 +95,8 @@ Ainda sobre o Brasil, criei um notebook no Kaggle (link: https://www.kaggle.com/
 ![usinas_solar](https://user-images.githubusercontent.com/67301805/185685169-8562c799-c78c-4885-9637-8ec40c2c1b89.jpg)
 
 
+O arquivo usado fio o renovaveis_operando.csv
+
 Acredito 	que o notebook tenha ficado muito grande, devido a quantidade de mapas que plotei, e talvez seja este o motivo que me impede de salvar e compartilhar o link corretamente. Cheguei a fazer o download, mas os mapas não aparecem no arquivo. Como pode ser verificado em meu-projeto-energia-nacional.ipynb
 
 
