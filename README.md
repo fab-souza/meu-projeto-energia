@@ -7,6 +7,13 @@
 
 Este é o repositório de um projeto particular sobre o setor energético nacional.
 
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Análise sobre o setor energéico**
+| :label: Tecnologias | Python
+| :rocket: URL         | https://github.com/fab-souza/meu-projeto-energia
+| :fire: Desafio     | Projeto particular
+
 A EPE (Empresa de Pesquisa Energética) é uma empresa pública, instituída nos termos da Lei n° 10.847, de 15 de março de 2004, e do Decreto n° 5.184, de 16 de agosto de 2004. Sua finalidade é prestar serviços na área de estudos e pesquisas destinados a subsidiar o planejamento do setor energético, tais como energia elétrica, petróleo e seus derivados, carvão mineral e fontes energéticas renováveis. A Lei n° 10.847, em seu Art. 4º, inciso II, estabelece entre as competências da EPE a de elaborar e publicar o Balanço Energético Nacional – BEN.
 
 O relatório consolidado BEN documenta e divulga, anualmente, extensa pesquisa e a contabilidade relativas à oferta e consumo de energia no Brasil, contemplando as atividades de extração de recursos energéticos primários, sua conversão em formas secundárias, a importação e exportação, a distribuição e o uso final da energia.
@@ -88,7 +95,7 @@ Ainda sobre o Brasil, criei um notebook no Kaggle (link: https://www.kaggle.com/
 
 - Usinas hidrelétricas:
 
-![usinas-hidro](https://user-images.githubusercontent.com/67301805/185011881-84ab876c-f209-4778-aa5d-f19b712c8238.jpg)
+![](https://user-images.githubusercontent.com/67301805/185011881-84ab876c-f209-4778-aa5d-f19b712c8238.jpg#vitrinedev)
 
 - Usinas solar:
 
