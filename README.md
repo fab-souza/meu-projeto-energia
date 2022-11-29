@@ -95,7 +95,7 @@ Ainda sobre o Brasil, criei um notebook no Kaggle (link: https://www.kaggle.com/
 
 - Usinas hidrelétricas:
 
-![](https://user-images.githubusercontent.com/67301805/185011881-84ab876c-f209-4778-aa5d-f19b712c8238.jpg#vitrinedev)
+![](https://user-images.githubusercontent.com/67301805/185011881-84ab876c-f209-4778-aa5d-f19b712c8238.jpg)
 
 - Usinas solar:
 
@@ -123,7 +123,7 @@ Plotei os gráficos de consumo:
 
 E ao final na análise, plotei um gráfico apresentando a porcentagem de produção de energia por fonte:
 
-![producao_brasil](https://user-images.githubusercontent.com/67301805/187009164-eca3a658-797d-43f9-b463-ff1c87984619.png)
+![](https://user-images.githubusercontent.com/67301805/187009164-eca3a658-797d-43f9-b463-ff1c87984619.png#vitrinedev)
 
 
 ### Conclusão:
