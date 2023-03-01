@@ -20,9 +20,8 @@ O relatório consolidado BEN documenta e divulga, anualmente, extensa pesquisa e
 
 
 
-Inicialmente, retirei os dados da EPE através do link: 
+Inicialmente, retirei os dados da [EPE](https://www.epe.gov.br/pt/publicacoes-dados-abertos/publicacoes/balanco-energetico-nacional-2022): 
 
-https://www.epe.gov.br/pt/publicacoes-dados-abertos/publicacoes/balanco-energetico-nacional-2022
 
 ![matriz2021](https://user-images.githubusercontent.com/67301805/177010609-6a010d57-4a55-479f-ae53-e9e59e438117.jpg)
 ![m-unidades](https://user-images.githubusercontent.com/67301805/177010616-e2020aa2-6e0f-4f48-a3ea-4e94fcf8251b.jpg)
@@ -42,25 +41,12 @@ Os dados analisados estão no arquivo projeto_energia_EPE.ipynb em que foi feita
 
 Também adicionei neste repositório o PDF disponibilizado pelo Ministério de Minas e Energia, o Balanço Energético Nacional (BEN) com dados referentes à geração registrada em 2021, caso haja curiosidade em entender os conceitos citados no notebook.
 
-Fonte: https://www.gov.br/mme/pt-br/assuntos/secretarias/spe/publicacoes/balanco-energetico-nacional/ben-2022/ben_sintese_2022_pt.pdf/view
-
-<!---
-
-O Ministério de Minas e Energia disponibilizou o Balanço Energético Nacional (BEN) com dados referente à geração registrada em 2021, pelo link:
-
->https://www.gov.br/mme/pt-br/assuntos/secretarias/spe/publicacoes/balanco-energetico-nacional/ben-2022/ben_sintese_2022_pt.pdf/view
-
->Usarei estes dados como uma forma de conferir o que for calculado neste projeto.
-
--->
+[Fonte](https://www.gov.br/mme/pt-br/assuntos/secretarias/spe/publicacoes/balanco-energetico-nacional/ben-2022/ben_sintese_2022_pt.pdf/view)
 
 
+---
 
-<br>
-***********************************************************************************************************
-<br><br>
-
-Passando para a base de dados da ANEEL (fonte: https://dados.gov.br/dataset/siga-sistema-de-informacoes-de-geracao-da-aneel), o resultado foi uma surpresa. Pois as variáveis estavam concentradas na primeira célula, enquanto os dados estavam espalhados em algumas colunas de forma disforme, ou seja, algumas colunas tinham informações e outras não.
+Passando para a base de dados da [ANEEL](https://dados.gov.br/dataset/siga-sistema-de-informacoes-de-geracao-da-aneel), o resultado foi uma surpresa. Pois as variáveis estavam concentradas na primeira célula, enquanto os dados estavam espalhados em algumas colunas de forma disforme, ou seja, algumas colunas tinham informações e outras não.
 
 ![aneel](https://user-images.githubusercontent.com/67301805/181395110-593085b7-1e33-452a-8579-f61a3835ef8d.jpg)
 
@@ -83,11 +69,11 @@ e por combustível.
 
 A análise completa está em projeto_energia_SIGA.ipynb
 
-<br>
-***********************************************************************************************************
-<br><br>
 
-Ainda sobre o Brasil, criei um notebook no Kaggle (link: https://www.kaggle.com/code/fabianadesouza/meu-projeto-energia-nacional) para plotar mapas com a geolocalização das usinas, divididas por fontes:
+---
+
+
+Ainda sobre o Brasil, criei um notebook no [Kaggle](https://www.kaggle.com/code/fabianadesouza/meu-projeto-energia-nacional) para plotar mapas com a geolocalização das usinas, divididas por fontes:
 
 - Usinas eólicas:
 
@@ -102,20 +88,16 @@ Ainda sobre o Brasil, criei um notebook no Kaggle (link: https://www.kaggle.com/
 ![usinas_solar](https://user-images.githubusercontent.com/67301805/185685169-8562c799-c78c-4885-9637-8ec40c2c1b89.jpg)
 
 
-O arquivo usado fio o renovaveis_operando.csv
+O arquivo usado foi o renovaveis_operando.csv
 
 Acredito 	que o notebook tenha ficado muito grande, devido a quantidade de mapas que plotei, e talvez seja este o motivo que me impede de salvar e compartilhar o link corretamente. Cheguei a fazer o download, mas os mapas não aparecem no arquivo. Como pode ser verificado em meu-projeto-energia-nacional.ipynb
 
 
-<br>
-***********************************************************************************************************
-<br><br>
+---
 
-Para fazer uma análise de dados internacionais, utilizei a base de dados disponível no Kaggle, o Renewable Energy (https://www.kaggle.com/datasets/programmerrdai/renewable-energy), no meu notebook:
+Para fazer uma análise de dados internacionais, utilizei a base de dados disponível no Kaggle, o [Renewable Energy](https://www.kaggle.com/datasets/programmerrdai/renewable-energy), no meu [notebook](https://www.kaggle.com/code/fabianadesouza/meu-projeto-energia-internacional)
 
-https://www.kaggle.com/code/fabianadesouza/meu-projeto-energia-internacional
-
-Os registros vão até 2020, mas deu para ter uma ideia de como está o setor energético dos países. Decidi trabalhar somente com os dados do BRICS, porque estes países, na época da formação do grupo, em 2009, foram considerados países emergentes, com características econômicas semelhantes. Fonte: https://www.todamateria.com.br/brics/
+Os registros vão até 2020, mas deu para ter uma ideia de como está o setor energético dos países. Decidi trabalhar somente com os dados do BRICS, porque estes países, na época da formação do grupo, em 2009, foram considerados países emergentes, com características econômicas semelhantes. [Fonte](https://www.todamateria.com.br/brics/)
 
 Plotei os gráficos de consumo:
 
