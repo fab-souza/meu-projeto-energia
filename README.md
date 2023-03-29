@@ -3,7 +3,7 @@
 ![Badge Finalizado](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=BLUE&style=for-the-badge)
 
 ![Badge code size](https://img.shields.io/github/languages/code-size/fab-souza/meu-projeto-energia)
-![Badge de Atualização](https://img.shields.io/github/last-commit/fab-souza/meu-projeto-energia)
+
 
 Este é o repositório de um projeto particular sobre o setor energético nacional.
 
